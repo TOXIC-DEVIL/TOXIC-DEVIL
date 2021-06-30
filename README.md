@@ -1,8 +1,4 @@
-<h2 align="center">Hi 🥰 I'm <br>TOXIC-DEVIL</h1>
-<h4 align="center">I am a simple developer. Not more..</h3>
-<h7 align="left">Moreover, I am the Owner Of Felix-Userbot</h7>
-
-##
+# Hi I'm TOXIC-DEVIL&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/hi.gif" width="48px"></a>
 
 <p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br>
 
