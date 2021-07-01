@@ -23,3 +23,52 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
 
+## Another Pin Project
+<details>
+  <summary>Bug Hunter Activity</summary>
+   <a href="https://github.com/Zhirrr/Vuln-Website-Indonesia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Vuln-Website-Indonesia">
+  </a>
+</details>
+<details>
+<summary>My Application Project</summary>
+<a href="https://github.com/Zhirrr/PyCodes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
+  </a>
+</details>
+<details>
+  <summary>Free Rest API Open Source</summary>
+   <a href="https://github.com/Zhirrr/Textmaker-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
+  </a>
+   <a href="https://github.com/Zhirrr/Python-Flask-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Python-Flask-API">
+  </a>
+</details>
+<details>
+<summary>My Application Project</summary>
+<a href="https://github.com/Zhirrr/PyCodes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
+  </a>
+</details>
+<details>
+<summary>My Game Web Project</summary>
+<a href="https://github.com/Zhirrr/Pixel-Runner-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Pixel-Runner-Game">
+  </a>
+</details>
+<details>
+  <summary>My Official NPM Package</summary>
+   <a href="https://github.com/Zhirrr/Zhirrr-Api-Package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Zhirrr-Api-Package">
+  </a>
+</details>
+<details>
+  <summary>My Rest API Project</summary>
+  <a href="https://github.com/zhirrr/islamic-rest-api-indonesian-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian-v2">
+  </a>
+  <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
+  </a>
+  <a 
