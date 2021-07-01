@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
 
+<!--
 
 ## Another Pin Project
 <details>
@@ -31,9 +32,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Felix-Userbot">
   </a>
 </details>
-
-<!--
-
 <details>
 <summary>My Application Project</summary>
 <a href="https://github.com/Zhirrr/PyCodes-App">
