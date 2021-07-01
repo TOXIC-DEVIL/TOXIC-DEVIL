@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **toxicdevil.abhinav.com**
 
-- 🆓 Don't Forget To **Follow Me**
+- 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL=follow?**
 
 <p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
 
