@@ -23,7 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
 
-<!--
 
 ## Another Pin Project
 <details>
@@ -33,21 +32,21 @@
   </a>
 </details>
 <details>
-<summary>My Application Project</summary>
-<a href="https://github.com/Zhirrr/PyCodes-App">
+<summary>My WhatsAsena Edited Project</summary>
+<a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
   </a>
 </details>
 <details>
-  <summary>Free Rest API Open Source</summary>
-   <a href="https://github.com/Zhirrr/Textmaker-Api">
+  <summary>My Second Account>
+   <a href="https://github.com/TOXIC-DEVIL-ABHINAV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
-  </a>
-   <a href="https://github.com/Zhirrr/Python-Flask-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Python-Flask-API">
   </a>
 </details>
 <details>
+
+<!---
+
 <summary>My Application Project</summary>
 <a href="https://github.com/Zhirrr/PyCodes-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
