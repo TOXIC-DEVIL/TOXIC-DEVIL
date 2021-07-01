@@ -13,8 +13,10 @@
 
 - 📫 How to reach me **toxicdevil.abhinav.com**
 
-- <p align="center"> <a href="TOXIC-DEVIL"><img width="40px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> Don't Forget To **Follow Me** 
-&nbsp;<a href="Hey"><img src="https://media0.giphy.com/media/dwSHVIfc331IKFvMdf/giphy.gif" width="1000px"></a>
+- &nbsp;<a href="Hey"><img src="https://media0.giphy.com/media/dwSHVIfc331IKFvMdf/giphy.gif" width="1000px"></a>  Don't Forget To **Follow Me**
+
+<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
+
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="TOXIC-DEVIL" /></p>
