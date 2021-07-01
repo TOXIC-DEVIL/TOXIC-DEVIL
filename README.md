@@ -1,6 +1,6 @@
 # Hi I'm TOXIC DEVIL&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-- <p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br>  I’m currently working **very hard.**
+- <p align="center"> <a href="TOXIC-DEVIL"><img width="40px" height="24" src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/hard.gif" alt="TOXIC-DEVIL" /></a> </p><br>  I’m currently working **very hard.**
 
 - 📖 I’m currently learning **Typescript** and **HTML**
 
