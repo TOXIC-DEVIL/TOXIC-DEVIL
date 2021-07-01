@@ -43,10 +43,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
   </a>
 </details>
-<details>
 
 <!---
-
+</details>
 <summary>My Application Project</summary>
 <a href="https://github.com/Zhirrr/PyCodes-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
