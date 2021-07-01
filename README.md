@@ -2,6 +2,10 @@
 
 <p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br>
 
+<p align="left">	  
+ <a href="TOXIC-DEVIL"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxdvrx1.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=true"/></a>
+</p>	
+
 &nbsp;<a href="Hey"><img src="https://media0.giphy.com/media/dwSHVIfc331IKFvMdf/giphy.gif" width="1000px"></a>
 
 <div align="center">
