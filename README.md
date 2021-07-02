@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Bots** and **Coding**
 
-- 🦜 Join in My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** and **[Bot Group](Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** On WhatsApp.
+- 🦜 Join in My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** and **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** On WhatsApp.
 
 - 📫 How to reach me **toxicdevil.abhinav.com**
 
