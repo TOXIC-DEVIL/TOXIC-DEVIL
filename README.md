@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **toxicdevil.abhinav.com**
 
-- 🤝 Join My New WhatsApp Bot Project By Completing This **[Form](https://tinyurl.com/complete-the-form-now)**
+- 🤝 Join My New WhatsApp Bot Project By Completing This **[Form](https://docs.google.com/forms/d/e/1FAIpQLSeAYqKWdr9KvLte4t9OM7jNXLv965UELGt0VVE-MJ4JlAdYZw/viewform?usp=pp_url)**
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
 
