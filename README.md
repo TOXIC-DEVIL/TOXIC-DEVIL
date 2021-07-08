@@ -17,7 +17,7 @@
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
 
-<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
+<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=lightgreen&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
 
 
 <div align="center">
