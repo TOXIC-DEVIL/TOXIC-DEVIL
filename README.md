@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Bots** and **Coding**
 
-- <img alt="TOXIC-DEVIL" src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/Handshake.gif" width="20vw" /> **Join in Our Groups:** *My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** *and* **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** *On WhatsApp.*
+- <img src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/Handshake.gif" height="32px" /> **Join in Our Groups:** *My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** *and* **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** *On WhatsApp.*
 
 - <img alt="TOXIC-DEVIL" src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/Gmail.svg" width="20vw" /> **How to reach me: ** *toxicdevil.abhinav.com*
 
