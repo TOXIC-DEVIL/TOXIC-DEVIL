@@ -9,13 +9,13 @@
 - 👨‍💻 All of my projects are available at
                    **[https://toxic-devil.github=ropo-official](https://github.com/TOXIC-DEVIL?tab=repositories)**
 
-- <img src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/391909180_THINKING_FACE_400px.gif" height="32px" width="32vw" /> **Ask me about:** **Bots** *and* **Coding**
+- 💬 Ask me about: **Bots** and **Coding**
 
-- <img src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/Handshake.gif" height="22px" /> **Join in Our Groups:** *My* **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** *and* **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** *On WhatsApp.*
+- 🦜 Join in Our Groups: My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** and **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** On WhatsApp.
 
--  <img alt="TOXIC-DEVIL" src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/Gmail.svg" width="20vw" /> **How to reach me:** *toxicdevil.abhinav.com*
+- 📫 How to reach me: *toxicdevil.abhinav.com*
 
-- <img alt="TOXIC-DEVIL" src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/coin.gif" width="20vw" /> **Fun Fact:** My *smartness* 💡 lies in my *laziness* 😴
+- 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
 
