@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **toxicdevil.abhinav.com**
 
+- <img alt="TOXIC-DEVIL" src="https://github.com/TOXIC-DEVIL/TOXIC-DEVIL/blob/TOXIC-DEVIL-OFFICIAL/media/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+
 - 🤝 Join My New WhatsApp Bot Project By Completing This **[Form](https://docs.google.com/forms/d/e/1FAIpQLSeAYqKWdr9KvLte4t9OM7jNXLv965UELGt0VVE-MJ4JlAdYZw/viewform?usp=pp_url)**
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
