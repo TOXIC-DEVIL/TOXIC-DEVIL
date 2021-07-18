@@ -1,7 +1,5 @@
 # Hi I'm TOXIC DEVIL&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-@adiwajshing
-
 - 🧑‍🏫 I’m currently working **very hard.**
 
 - 📖 I’m currently learning **Typescript** and **HTML**
