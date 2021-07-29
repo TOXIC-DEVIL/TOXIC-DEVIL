@@ -29,6 +29,26 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
 
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=TOXIC-DEVIL)
+
+</details>
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/TOXIC-DEVIL?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+</details>
+
+##
+
 ## Another Pin Project
 <details>
   <summary>My New WhatsApp Bot Re-Codded Project</summary>
