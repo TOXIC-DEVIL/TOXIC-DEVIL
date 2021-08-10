@@ -55,11 +55,12 @@
    <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic">
   </a>
-<details>
+</details>
   
 <details>
   <summary>My New WhatsApp Bot Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/Rhizo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Rhizo">
   </a>
+  </details>
 
