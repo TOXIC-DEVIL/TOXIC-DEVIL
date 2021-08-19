@@ -51,8 +51,8 @@
 
 ## Another Pin Project
 <details>
-  <summary>My New WhatsApp Bot Re-Codded Project</summary>
-   <a href="https://github.com/TOXIC-DEVIL/WhatsAsenaPublic">
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/TOXIC-DEVIL/WhatsAlexa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic">
   </a>
 </details>
