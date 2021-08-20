@@ -53,7 +53,7 @@
 <details>
   <summary>My New WhatsApp Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/WhatsAlexa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAlexa">
   </a>
 </details>
 
