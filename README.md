@@ -13,8 +13,6 @@
 
 - 💬 Ask me about: **Bots** and **Coding**
 
-- 🦜 Join in Our Groups: My **[Official Group](https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1)** and **[Bot Group](https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm)** On WhatsApp.
-
 - 📫 How to reach me: **[Chat me @WhatsApp](https://wa.me/94768826133?text=I%20got%20your%20number%20from%20GitHub%20😊)**
 
 - 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
