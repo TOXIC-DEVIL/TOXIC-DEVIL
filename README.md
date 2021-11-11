@@ -47,6 +47,7 @@
 
 ##
 
+<!--
 ## Another Pin Project
 <details>
   <summary>My New WhatsApp Project</summary>
@@ -55,7 +56,7 @@
   </a>
 </details>
 
-  <!--
+  
 <details>
   <summary>My New WhatsApp Bot Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/Rhizo">
