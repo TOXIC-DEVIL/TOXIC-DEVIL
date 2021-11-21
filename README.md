@@ -28,12 +28,12 @@
   <a href="https://t.me/toxic_devil_official">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
+  <a
 
   <a href="mailto:toxicdevil.abhinav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
+  <a
 
 - 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
 
