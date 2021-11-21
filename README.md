@@ -23,7 +23,7 @@
   <a href="https://instagram.com/_____toxic___devil_____">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
+  <a
 
   <a href="https://t.me/toxic_devil_official">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
