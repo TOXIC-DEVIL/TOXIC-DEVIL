@@ -18,6 +18,26 @@
   <a href="https://wa.me/2349053311892?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a
+
+  <a href="https://instagram.com/_____toxic___devil_____">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+  <a href="https://t.me/toxic_devil_official">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+  <a href="mailto:toxicdevil.abhinav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+  <a href="mailto:toxicdevil.abhinav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a 
 
 - 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
