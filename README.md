@@ -15,7 +15,10 @@
 
 - 📫 How to reach me:
 
-[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/2349053311892?text=Hi%20I%20Am%20From%20GitHub%20☺️)
+  <a href="https://wa.me/2349053311892?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a 
 
 - 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
 
