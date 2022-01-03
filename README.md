@@ -4,7 +4,7 @@
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
-- 📖 I’m currently learning **Typescript** and **HTML**
+- 📖 I’m currently learning **Lua** and **Shell**
 
 - 🕵️ I’m looking to collaborate with other **content creators.**
 
