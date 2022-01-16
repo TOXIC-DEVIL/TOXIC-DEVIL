@@ -20,7 +20,7 @@
   </a>&nbsp;&nbsp;
   <a
 
-  <a href="https://instagram.com/_____toxic___devil_____">
+  <a href="https://instagram.com/_toxic._devil_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
@@ -30,7 +30,7 @@
   </a>&nbsp;&nbsp;
   <a
 
-  <a href="mailto:toxicdevil.abhinav@gmail.com">
+  <a href="mailto:toxicdevil.abhinav@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject%here">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
@@ -75,7 +75,7 @@
 <details>
   <summary>My New WhatsApp Bot Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/Rhizo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Rhizo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=">
   </a>
   </details>
   --!>
