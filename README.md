@@ -74,7 +74,7 @@
   
 <details>
   <summary>My New WhatsApp Bot Project</summary>
-   <a href="https://github.com/TOXIC-DEVIL/Rhizo">
+   <a href="https://github.com/TOXIC-DEVIL/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=">
   </a>
   </details>
