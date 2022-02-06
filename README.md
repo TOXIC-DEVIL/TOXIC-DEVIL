@@ -78,8 +78,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=">
   </a>
   </details>
-  --!>
-
+  -->
+<!--
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=315xgtgvsvvhpdenuswkvvil3j5u&cover_image=true)" />
   </div>
+-->
