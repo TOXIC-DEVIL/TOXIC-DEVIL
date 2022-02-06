@@ -79,3 +79,7 @@
   </a>
   </details>
   --!>
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=i2s2jSJYRxWZ5CKD2faUdg&cover_image=true)" />
+  </div>
