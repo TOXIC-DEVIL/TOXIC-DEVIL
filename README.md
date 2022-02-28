@@ -30,6 +30,11 @@
   </a>&nbsp;&nbsp;
   <a
 
+  <a href="https://youtube.com/c/T0X1CD3V1L-4BH1N4V">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
   <a href="mailto:toxicdevil.abhinav@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
