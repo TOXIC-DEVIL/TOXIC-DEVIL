@@ -9,7 +9,7 @@
 - 🕵️ I’m looking to collaborate with other **content creators.**
 
 - 👨‍💻 All of my projects are available at
-                   **[https://toxic-devil.github=ropo-official](https://github.com/TOXIC-DEVIL?tab=repositories)**
+                   **[Here](https://github.com/TOXIC-DEVIL?tab=repositories)**
 
 - 💬 Ask me about: **Bots** and **Coding**
 
