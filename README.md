@@ -60,7 +60,7 @@
 <details>
     <summary>&#127942 <b>Contribution Graph</b></summary><br/>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TOXIC-DEVIL&bg_color=FFF&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TOXIC-DEVIL&bg_color=FFF&color=87CEEB&line=87CEEB&point=ffffff&area=true&hide_border=true)
 
 </details>
 
