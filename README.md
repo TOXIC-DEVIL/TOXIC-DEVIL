@@ -58,9 +58,9 @@
 ##
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>Contribution Graph</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=TOXIC-DEVIL)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TOXIC-DEVIL&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 </details>
 
