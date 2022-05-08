@@ -8,7 +8,7 @@
 
 - 🕵️ I’m looking to collaborate with other **content creators.**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available
                    **[Here](https://github.com/TOXIC-DEVIL?tab=repositories)**
 
 - 💬 Ask me about: **Bots** and **Coding**
