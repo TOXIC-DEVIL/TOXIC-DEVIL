@@ -1,6 +1,10 @@
-# Hi I'm TOXIC DEVIL&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+<h1 align="center"><b>Hey, I'm TOXIC DEVIL</b><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="35"></h1>
 
-![My card name](https://cardivo.vercel.app/api?name=TOXIC%20-%20DEVIL&description=Hi,%20Welcome%20To%20My%20Profile%20💖&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=___toxic____devil___&github=TOXIC-DEVIL&pattern=leaf&colorPattern=%23eaeaea)
+<p align="center">
+  <a href="https://github.com/TOXIC-DEVIL"><img src="https://readme-typing-svg.demolab.com/?lines=<Hobby+Developer/>&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100"></a>
+</p>
+
+<h1 align="center"><b>About Me </b><img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="35"></h1>
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
