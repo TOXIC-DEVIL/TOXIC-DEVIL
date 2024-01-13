@@ -20,8 +20,10 @@
 
   <a href="mailto:toxicdevil.abhinav@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject%20here">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a
+  </a>
+  <a href="https://www.instagram.com/_toxic._devil_">
+    <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
 <b>
 
