@@ -24,6 +24,11 @@
   <a href="https://www.instagram.com/_toxic._devil_">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://youtube.com/@toxicdevilofficial">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  
 <a href="https://t.me/toxic_devil_official">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
