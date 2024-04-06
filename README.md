@@ -40,4 +40,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" height="40px" width="40px">
 </div><br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=Profile%20Viewers&color=ffa500&style=flat" alt="TOXIC-DEVIL" /> </p>
+
 <p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
