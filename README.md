@@ -48,7 +48,7 @@
 
 <h1 align="center"><b>Support</b></h1>
 
-<a href="https://www.buymeacoffee.com/toxic-devil">
+<a href="https://www.buymeacoffee.com/toxicdevil">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
   </a><br>
 
