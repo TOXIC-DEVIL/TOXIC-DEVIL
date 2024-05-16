@@ -8,7 +8,7 @@
 
 - 🧑‍🏫 I’m a passionate Self-Taught **Junior Developer**
 
-- 📖 I’m currently learning **Advanced Web Development.**
+- 📖 I’m currently learning **PHP.**
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
