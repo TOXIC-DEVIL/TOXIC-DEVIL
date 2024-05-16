@@ -46,4 +46,10 @@
   </a><br>
 <b>
 
+<h1 align="center"><b>Support</b></h1>
+
+<a href="https://www.buymeacoffee.com/toxic-devil">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+  </a><br>
+
 <p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
