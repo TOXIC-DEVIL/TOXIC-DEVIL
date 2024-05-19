@@ -21,12 +21,12 @@
 <br>
 
 <div style="display: flex;">
-    <img src="https://www.citypng.com/public/uploads/small/11662226392uom4gsi9ddb1c81ipfx2u4imargvwq7uskhdui1pj4f6xufjz0jkfzqzduhjuifts0dzcnykgszw6isfutq2nlwb51ef4gm0dt8d.png" height="40px" width="40px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40px" width="40px">
-    <img src="https://i.ibb.co/P9PtWRT/download-removebg-preview.png" height="40px" width="40px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40px" width="40px">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" height="40px" width="40px">
-</div><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br>
 
 <h1 align="center"><b>Reach Me Out </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"></h1>
 
@@ -49,7 +49,7 @@
 <h1 align="center"><b>Support</b></h1>
 
 <a href="https://www.buymeacoffee.com/toxicdevil">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
   </a><br>
 
 <p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
