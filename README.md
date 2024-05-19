@@ -32,24 +32,23 @@
 
   <a href="mailto:toxicdevil.abhinav@gmail.com?subject=[%20GITHUB%20]%20">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><br>
+  </a>
   <a href="https://www.instagram.com/_toxic._devil_">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a><br>
+  </a>
 
   <a href="https://youtube.com/@toxicdevilofficial">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a><br>
+  </a>
   
 <a href="https://t.me/toxic_devil_official">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a><br>
-<b>
 
 <h1 align="center"><b>Support</b></h1>
 
 <a href="https://www.buymeacoffee.com/toxicdevil">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
-  </a><br>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" height="50" />
+  </a><br><br>
 
-<p>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></p>
+<p><b>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" hight ="20px" width ="20px"></b></p>
